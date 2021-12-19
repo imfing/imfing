@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[LinkedIn](https://www.linkedin.com/in/fing/) | [Homepage](https://imfing.com)
+
+[![Fing's github stats](https://github-readme-stats.vercel.app/api?username=imfing&show_icons=true&hide=["contribs","prs"])](https://github.com/imfing)
+
+- 👨‍💻 Working on data science infra
+- `Fing` is my nickname
+- I used `mtobeiyf` as username which comes from *The Hunger Games* quote: "May The Odds Be Ever In Your Favor"
+
 <!--
 **imfing/imfing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
