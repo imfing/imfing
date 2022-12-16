@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[LinkedIn](https://www.linkedin.com/in/fing/) | [Homepage](https://imfing.com) | <a rel="me" href="https://mastodon.imfing.com/@xin">Mastodon</a>
+[LinkedIn](https://www.linkedin.com/in/fing/) | [Homepage](https://imfing.com) | [Mastodon](https://hachyderm.io/@xin)
 
 [![Fing's github stats](https://github-readme-stats.vercel.app/api?username=imfing&show_icons=true&hide=["contribs","prs"])](https://github.com/imfing)
 
