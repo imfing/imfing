@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-[LinkedIn](https://www.linkedin.com/in/fing/) | [Homepage](https://imfing.com) | [Mastodon](https://hachyderm.io/@xin)
+[LinkedIn](https://www.linkedin.com/in/fing/) | [Homepage](https://imfing.com) | [Twitter](https://x.com/_imfing)
 
 [![Fing's github stats](https://github-readme-stats.vercel.app/api?username=imfing&show_icons=true&hide=["contribs","prs"])](https://github.com/imfing)
 
-- 👨‍💻 Working on data science infra
+👨‍💻 Working on AI platform
+
+Fun Facts
 - `Fing` is my nickname
 - I used `mtobeiyf` as username which comes from *The Hunger Games* quote: "May The Odds Be Ever In Your Favor"
 
